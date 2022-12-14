@@ -1,0 +1,50 @@
+body{
+    background-image: url(images/hatter.png);
+}
+.jumbotron{
+    text-align: center;
+    background-color: orange;
+}
+nav{
+    text-decoration: none;
+    text-align: center;
+    font-style: italic;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    overflow: hidden;
+    background-color: white;
+    color: orange;
+    text-align: center;
+    padding: 15px;
+}
+a:link{ 
+    text-decoration: none; 
+}
+a:visited{ 
+    text-decoration: none; 
+}
+a:hover{ 
+    text-decoration: none; 
+}
+a:active{ 
+    text-decoration: none; 
+}
+a{
+    color:orange;
+    padding: 10px;
+}        
+.card-header{
+    background-color: orange;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+} 
+.card{
+    margin-bottom: 50px;
+}

@@ -1,0 +1,113 @@
+body{
+    background-image: url(images/hatter.png);
+}
+.jumbotron{
+    background-color: orange;
+}
+.card{
+    margin-top: 20px;
+    width: 40vw;
+}
+.card-header{
+    background-color: orange;
+}
+h2{
+    font-size: 130%;
+    text-align: left;
+}
+.one{
+    float: left;
+    margin-bottom: 20px;
+}
+.two{
+    float: right
+}
+.three{
+    width: 100%;
+}
+.four{
+    width: 100%;
+    margin-bottom: 20px;
+}
+nav{
+    text-decoration: none;
+    text-align: center;
+    font-style: italic;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    overflow: hidden;
+    background-color: white;
+    color: orange;
+    text-align: center;
+    padding: 15px;
+}
+a:link{ 
+    text-decoration: none; 
+}
+a:visited{ 
+    text-decoration: none; 
+}
+a:hover{ 
+    text-decoration: none; 
+}
+a:active{ 
+    text-decoration: none; 
+}
+a{
+    color:orange;
+    padding: 10px;
+}        
+#egy{
+    text-align: center;
+}
+#szam{
+    font-size: 200%;
+}
+.close{
+    float: right;
+}
+.zero{
+    width: 100%;
+}
+#zero0{
+    background-color: white;
+}
+#zero1{
+    background-color: #eaebeb;
+    text-align: center;
+}
+#pics{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+.flex-container {
+    display: flex;
+    text-align: center;
+}
+#a{
+    float: left;
+    width: 250px;
+    height: auto;
+    margin-right: 98px;
+}
+#b{
+    float: left;
+    width: 250px;
+    height: auto;
+    margin-right: 98px;
+}
+#c{
+    float: left;
+    width: 250px;
+    height: auto;
+    margin-right: 98px;
+}
+#d{
+    float: left;
+    width: 250px;
+    height: auto;
+}
+#kepek{
+    margin-top: 20px;
+}
